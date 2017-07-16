@@ -1,8 +1,5 @@
-body{
-    background: url(design.jpg);background: cover
-}
 nav ul{        
-        list-style:none; // menghilangkan tanda pada pinggir list
+        list-style:none; // menghilangkan tanda pada pinggir ist
 	width:900px; 
 	height:50px;
 }
@@ -18,18 +15,18 @@ nav ul li:hover ul{
 	display:block;  //menampilkan menu saat pointerr di atasnya
 }
 nav ul li:hover{
-	background:#0000ff;
+	background:#16A085;
 }
 nav ul li{
 	float:left;
 	width:150px;
 	height:35px;
-	background:#fff;
+	background:#1ABC9C;
 	text-align:center;
 	padding-top:15px;
 }
 nav a{
-	color:#0000000;
-	font-family:Times New Roman;
+	color:#fff;
+	font-family:sans-serif;
 	font-size:11pt;
 }

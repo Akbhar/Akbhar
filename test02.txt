@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Abd.Rahman _ web</title>
+</head>
+
+<p>
+<b><font size="12" font color="orange" font face="Arial">PENDIDIKAN LEBIH UTAMA</font></H1></b>
+<h2><font face="Chiller">Utamakan Pendidikan demi kehidupan yang Layak di masa yang akan datang...!!!</h2><hr size="5" color=black></font></p>
+
+<header>
+<table width="300" border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<body>
+	<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+    <nav>
+       <ul>
+	    <li><a href="#">HOME</a></li>
+	    <li><a href="#">PROFIL</a></li>
+	    <li><a href="#">DAFTAR AKUN</a></li>
+	    <li><a href="#">GALERI</a>
+	    <ul>
+		<li><a href="#">FOTO</a></li>
+		<li><a href="#">VIDEO</a></li>
+		<li><a href="#">AUDIO</a></li>						
+	    </ul>		
+	    </li>
+	    <li><a href="#">CONTACT US</a>
+	    <ul>
+		<li><a href="#">+628-1916-6605</a></li>				
+	    </ul>
+   </nav>
+   				<p align="right"><input type="text" placeholder="Cari Kata">
+						<input type="submit" value="Cari" ><br /></align="right"></p>
+</tr>
+
+</header>
+<body>
+
+<h2><font face="Arial">	PENDIDIKAN</h2><p>
+<p><img src='bahan/malas belajar.jpeg' width='254' height='200'>
+<img src='bahan/bukk.png' width='254' height='200'></p>
+
+<p align=left>
+<pre>Pendidikan adalah pembelajaran pengetahuan, keterampilan, dan kebiasaan sekelompok orang yang diturunkan dari 
+satu generasi ke generasi berikutnya melalui pengajaran, pelatihan, atau penelitian. Pendidikan sering terjadi 
+di bawah bimbingan orang lain, tetapi juga memungkinkan secara otodidak.Setiap pengalaman yang memiliki efek 
+formatif pada cara orang berpikir, merasa, atau tindakan dapat dianggap pendidikan. Pendidikan umumnya dibagi 
+menjadi tahap seperti prasekolah, sekolah dasar, sekolah menengah dan kemudian perguruan tinggi, universitas 
+atau magang.</pre>
+<pre>Sebuah hak atas pendidikan telah diakui oleh beberapa pemerintah. Pada tingkat global, 
+Pasal 13 PBB 1966 Kovenan Internasional tentang Hak Ekonomi, Sosial dan Budaya mengakui hak setiap 
+orang atas pendidikan.Meskipun pendidikan adalah wajib di sebagian besar tempat sampai usia tertentu, 
+bentuk pendidikan dengan hadir di sekolah sering tidak dilakukan, dan sebagian kecil orang tua memilih untuk 
+pendidikan home-schooling, e-learning atau yang serupa untuk anak-anak mereka.</pre></br></p align=left>
